@@ -19,3 +19,4 @@ sudo ./setup.sh
 5. Retire.js
 
 ### for CTF
+1. RustScan
