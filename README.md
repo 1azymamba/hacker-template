@@ -17,6 +17,7 @@ sudo ./setup.sh
 3. JS Parser
 4. ESLint
 5. Retire.js
+6. python pip install pypykatz
 
 ### for CTF
 1. RustScan
