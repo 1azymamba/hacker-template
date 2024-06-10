@@ -19,5 +19,16 @@ sudo ./setup.sh
 5. Retire.js
 6. python pip install pypykatz
 
+#### Web Sub Dir Enumeration
+1. EyeWitness
+2. Amass
+
+#### Web Fingerprinting Enumeration
+1. Wappalizer
+
+#### AWS Hacking
+1. awscli
+
 ### for CTF
 1. RustScan
+
