@@ -10,6 +10,9 @@ sudo ./setup.sh
 
 ## What tool will be installed?
 
+### for pentesting
+1. snmp-mibs-downloader
+
 ### for bug bounty
 
 1. relative-url-extractor
