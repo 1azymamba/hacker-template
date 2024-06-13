@@ -12,6 +12,8 @@ sudo ./setup.sh
 
 ### for pentesting
 1. snmp-mibs-downloader
+2. PowerView and SharpView
+3. Rubeus
 
 ### for bug bounty
 
