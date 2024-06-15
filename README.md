@@ -37,3 +37,5 @@ sudo ./setup.sh
 ### for CTF
 1. RustScan
 
+### for Dev
+1. rust and cargo
