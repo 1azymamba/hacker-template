@@ -25,7 +25,6 @@ sudo ./setup.sh
 6. python pip install pypykatz
 
 #### Debug Web app
-1. Firebug & Eventbug (Firefox plugin)
 
 #### Web Sub Dir Enumeration
 1. EyeWitness
