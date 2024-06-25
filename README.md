@@ -41,4 +41,5 @@ sudo ./setup.sh
 
 ### for Dev
 1. rust and cargo
-2. 
+
+
