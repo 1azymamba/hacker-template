@@ -23,6 +23,8 @@ sudo ./setup.sh
 4. ESLint
 5. Retire.js
 6. python pip install pypykatz
+7. getJS
+8. 
 
 #### Debug Web app
 
